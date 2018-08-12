@@ -1,0 +1,10 @@
+{
+  "title":"This is an title",
+  "article_path":"/path/to/article file",
+  "introduction":"This is an introduction (could be empty)",
+  "privacy":"public",
+  "reply":true,
+  "original":true,
+  "ck":"<cookie ck value>",
+  "dbcl2":"<cookie dbcl2 value>"
+}
