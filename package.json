@@ -1,0 +1,20 @@
+{
+  "name": "douban-markdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kai Yang",
+  "license": "ISC",
+  "dependencies": {
+    "command-line-args": "^5.0.2",
+    "draft-js": "^0.10.5",
+    "draft-js-import-markdown": "^1.2.1",
+    "form-data": "^2.3.2",
+    "node-fetch": "^2.2.0",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  }
+}
