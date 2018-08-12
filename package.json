@@ -1,13 +1,22 @@
 {
-  "name": "douban-markdown",
-  "version": "1.0.0",
+  "name": "douban-formatter",
+  "version": "0.0.2",
+  "author": "Kai Yang",
+  "license": "ISC",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Kai Yang",
-  "license": "ISC",
+  "engines": {
+    "node": ">=10"
+  },
+  "files": [
+    "index.js"
+  ],
+  "bin": {
+    "douban-formatter": "./index.js"
+  },
   "dependencies": {
     "command-line-args": "^5.0.2",
     "draft-js": "^0.10.5",
